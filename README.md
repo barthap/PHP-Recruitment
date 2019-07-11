@@ -18,7 +18,7 @@ To do:
 -Statistics
 -I don't know
 
-This project is no longer developed by me, I abandonned it. It needs some code cleanup.
+This project is no longer developed by me, I abandoned it. It needs some code cleanup.
 
 ### Installation
 This project uses [KohanaPHP v3.3](https://kohanaframework.org) which is no longer supported.
